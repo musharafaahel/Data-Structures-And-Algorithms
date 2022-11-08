@@ -1,0 +1,8 @@
+STACK 
+
+Functions : PUSH, POP
+
+1. PUSH - which is used to insert or add an element to stack.
+2. POP - which is used to delete or remove an element from stack.
+
+Operations : Elements can only be added or removed only from one end.
